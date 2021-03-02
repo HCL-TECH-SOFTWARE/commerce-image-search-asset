@@ -1,0 +1,4 @@
+
+> functions@ serve /Users/francisbooth/Projects/firebase-trying-again/functions
+> firebase emulators:start --only functions
+
